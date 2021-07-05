@@ -1,1 +1,1 @@
-max is a dog!
+max is not a dog!
